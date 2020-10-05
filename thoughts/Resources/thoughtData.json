@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "content": "It's not real until your wife is on board",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 1,
+            "name": "Daryl Philbin",
+            "username": "daryl"
+        }
+    },
+    {
+        "id": 2,
+        "content": "Sometimes I’ll start a sentence and I don’t even know where it’s going. I just hope I find it along the way",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 2,
+            "name": "Michael Scott",
+            "username": "scarn"
+        }
+    },
+    {
+        "id": 3,
+        "content": "I talk a lot, so I’ve learned to tune myself out",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 3,
+            "name": "Kelly Kapoor",
+            "username": "kellyprincessdianaandangelina"
+        }
+    },
+    {
+        "id": 4,
+        "content": "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 2,
+            "name": "Michael Scott",
+            "username": "scarn"
+        }
+    },
+    {
+        "id": 5,
+        "content": "I’m not superstitious, but I am a little stitious",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 2,
+            "name": "Michael Scott",
+            "username": "scarn"
+        }
+    },
+    {
+        "id": 6,
+        "content": "If I don’t have some cake soon, I might die",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 4,
+            "name": "Stanley Hudson",
+            "username": "stanley"
+        }
+    },
+    {
+        "id": 7,
+        "content": "Today, smoking is going to save lives",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 5,
+            "name": "Dwight Schrute",
+            "username": "schrute"
+        }
+    },
+    {
+        "id": 8,
+        "content": "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 6,
+            "name": "Pamela Halpert",
+            "username": "beasley_pam"
+        }
+    },
+    {
+        "id": 9,
+        "content": "I feel God in this chilli's tonight",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 6,
+            "name": "Pamela Halpert",
+            "username": "beasley_pam"
+        }
+    },
+    {
+        "id": 10,
+        "content": "I normally don't enjoy making people laugh",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 7,
+            "name": "Angela Martin",
+            "username": "beasley_pam"
+        }
+    },
+    {
+        "id": 11,
+        "content": "Me think, why waste time say lot word, when few word do trick",
+        "createdAt": 1601870208537,
+        "from": {
+            "id": 8,
+            "name": "Kevin Malone",
+            "username": "kevin69"
+        }
+    }
+]
